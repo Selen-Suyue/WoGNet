@@ -1,3 +1,3 @@
 # World Guidance
-Project page for Dense Policy
+Project page for WoG
 
