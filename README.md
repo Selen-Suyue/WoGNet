@@ -1,3 +1,3 @@
 # World Guidance
-Project page for WoG
+Project page of WoG
 
